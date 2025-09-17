@@ -1,0 +1,30 @@
+# NetBeans specific
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Java class files
+*.class
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE metadata
+*.iml
+*.ipr
+*.iws
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Credentials / sensitive files
+config.properties
