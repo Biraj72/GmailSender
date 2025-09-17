@@ -1,0 +1,15 @@
+# Compiled class files and build artifacts
+/build/
+
+# NetBeans private files
+/nbproject/private/
+
+# Ignore config with credentials
+/resources/config.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
